@@ -308,7 +308,7 @@ Easily able to change values such as the train and test split percentage or even
 
 ## Dataset
 
-This project uses a curated subset of the [Google Quick, Draw! Dataset](https://www.kaggle.com/datasets/ashishjangra27/doodle-dataset), containing 3000 hand-drawn examples for each of 340 categories. The dataset is included in the repository.
+This project uses a curated subset of the [Google Quick, Draw! Dataset](https://www.kaggle.com/datasets/ashishjangra27/doodle-dataset), containing 3000 hand-drawn examples for each of 340 categories. The dataset is included in the repository. 
 
 ## Contributing
 
