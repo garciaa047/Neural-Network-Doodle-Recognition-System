@@ -16,7 +16,7 @@ A fully custom neural network implementation built from scratch in NumPy to clas
 |--------|-------|
 | Test Accuracy | **90%+** |
 | Training Time | 1-2 minutes |
-| Training Samples | 7,500 (500 per class × 3 with augmentation) |
+| Training Samples | 7,500 (5 classes * 500 per class * 3 with augmentation) |
 | Inference Speed | Real-time (~75ms prediction interval) |
 
 ### Classification Classes Included
