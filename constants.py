@@ -1,6 +1,8 @@
+import os 
+
 # Dir variables (Can be changed to absolute path C:/etc)
-FILE_PATH_DIR = ""
-DATASET_DIR = "doodleDataset"
+FILE_PATH_DIR = os.getcwd()
+DATASET_DIR = "doodleDataset/"
 CSV_FILE = "doodle_pixels.csv"
 NPZ_FILE = "doodle_model.npz"
 
